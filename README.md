@@ -189,5 +189,30 @@ BACKEND
 15. Normas de seguridad en el uso de equipos: Se deben seguir las instrucciones de seguridad y las advertencias proporcionadas por el personal del gimnasio para minimizar el riesgo de lesiones.
 </p>
 
+### TÉCNOLOGIAS EMPLEADAS
+<p align="justify">
+1. Python: Lenguaje de programación principal utilizado para escribir la lógica del backend y las funcionalidades del sistema.
+</p>
+
+<p align="justify">
+2. Vue.js: Framework progresivo de JavaScript utilizado para construir la interfaz de usuario interactiva y dinámica del frontend.
+</p>
+
+<p align="justify">
+3. JSON: Formato de intercambio de datos utilizado para almacenar y transmitir información entre el frontend y el backend, así como para configuraciones de la aplicación.
+</p>
+
+<p align="justify">
+4. GitHub: Plataforma de desarrollo colaborativo que proporciona control de versiones utilizando Git, utilizada para almacenar y gestionar el código fuente del proyecto.
+</p>
+
+<p align="justify">
+5. Visual Studio Code: Editor de código fuente utilizado para escribir, editar y depurar el código del proyecto. Proporciona herramientas y extensiones para el desarrollo web con Python, JavaScript y otros lenguajes.
+</p>
+
+<p align="justify">
+6. MySQL Workbench: Herramienta de diseño de base de datos utilizada para modelar, visualizar y administrar la base de datos del sistema. Ayuda en el diseño inicial de la base de datos y en la administración continua de la misma.
+</p>
+
 
 </div>
