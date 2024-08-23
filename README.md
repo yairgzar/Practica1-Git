@@ -34,9 +34,11 @@ BACKEND
 
 ### OBJETIVOS ESPECIFICOS
 <p align="justify"> 
-   
-1.-Control de inventario: Desarrollar un sistema para registrar y monitorear el inventario de equipos de gimnasio, consumibles como toallas, productos de limpieza y otros materiales necesarios para el funcionamiento diario.
-2.-Gestión de préstamos y devoluciones: Implementar un mecanismo para realizar préstamos de equipos o materiales a los usuarios del gimnasio y registrar las devoluciones de manera eficiente.
-3.-Desarrollar un catálogo digital de productos que proporcione descripciones detalladas de cada equipo, consumible o material disponible en el gimnasio, facilitando a los usuarios la búsqueda y selección de los elementos necesarios para su uso.
+   1. **Control de inventario**: Desarrollar un sistema para registrar y monitorear el inventario de equipos de gimnasio, consumibles como toallas, productos de limpieza y otros materiales necesarios para el funcionamiento diario.
+
+2. **Gestión de préstamos y devoluciones**: Implementar un mecanismo para realizar préstamos de equipos o materiales a los usuarios del gimnasio y registrar las devoluciones de manera eficiente.
+
+3. **Catálogo digital de productos**: Desarrollar un catálogo digital de productos que proporcione descripciones detalladas de cada equipo, consumible o material disponible en el gimnasio, facilitando a los usuarios la búsqueda y selección de los elementos necesarios para su uso.
+
 </p>
 </div>
