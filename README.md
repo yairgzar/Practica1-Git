@@ -214,5 +214,36 @@ BACKEND
 6. MySQL Workbench: Herramienta de diseño de base de datos utilizada para modelar, visualizar y administrar la base de datos del sistema. Ayuda en el diseño inicial de la base de datos y en la administración continua de la misma.
 </p>
 
+### BASE DE DATOS
+<p align="justify">
+En nuestro proyecto del sistema web para el control de un gimnasio, hemos implementado un sistema de login con roles que permite gestionar el acceso y las acciones que cada usuario puede realizar dentro de la plataforma. Este sistema de roles está diseñado para garantizar la seguridad y eficiencia en la gestión del gimnasio, permitiendo que cada usuario tenga acceso solo a las funcionalidades pertinentes según su rol:
+</p>
+
+<p align="justify">
+1. Administrador: Los usuarios con rol de administrador tienen acceso completo a todas las funcionalidades del sistema. Esto incluye la gestión de usuarios, la administración del inventario de equipos y materiales, la programación de tareas de mantenimiento, y la generación de informes. Los administradores pueden agregar, editar y eliminar cualquier registro, así como asignar roles a otros usuarios.
+</p>
+
+<p align="justify">
+2. Editor: Los usuarios con rol de editor tienen permisos limitados en comparación con los administradores. Pueden agregar y editar información relacionada con el inventario y los equipos, pero no tienen permisos para eliminar registros o gestionar usuarios. Los editores son ideales para personal que necesita actualizar información regularmente, como entrenadores o encargados de inventario.
+</p>
+
+<p align="justify">
+3. Lector: Los usuarios con rol de lector tienen acceso de solo lectura a la información del sistema. Pueden ver el inventario, los informes y otras estadísticas, pero no pueden realizar ningún cambio o actualización. Este rol es adecuado para usuarios que necesitan consultar la información sin modificarla, como el personal de recepción o visitantes interesados en el estado del gimnasio.
+</p>
+
+
+### POBLACIÓN DINAMICA Y ESTATICA
+
+<p align="justify">
+En el desarrollo del sistema, también hemos considerado el manejo de poblaciones dinámica y estática para optimizar la funcionalidad del gimnasio:
+</p>
+
+<p align="justify">
+- Población Dinámica: Se refiere a los usuarios y miembros del gimnasio cuya información cambia frecuentemente. Esto incluye el registro de nuevas membresías, la actualización de datos personales, el registro de asistencia y el seguimiento de reservas de equipos. La población dinámica requiere un manejo ágil para reflejar los cambios en tiempo real, permitiendo una gestión eficiente y actualizada de los recursos del gimnasio.
+</p>
+
+<p align="justify">
+- Población Estática: Se refiere a la información que no cambia con frecuencia, como los detalles del equipamiento fijo, las configuraciones de la infraestructura del gimnasio, y las políticas generales de funcionamiento. La gestión de la población estática se enfoca en mantener la consistencia y la estabilidad de los datos, asegurando que la información relevante esté siempre disponible para los usuarios que la necesiten.
+</p>
 
 </div>
