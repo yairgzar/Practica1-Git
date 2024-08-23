@@ -9,4 +9,17 @@ BACKEND
 "9° B"
 
 # "EQUIPO TECOLINES"
+
+| Empresa          |                                |
+| ----------------|-------------------------------------|
+| Proyecto        | Sitio web Gimnasio                 |
+| Fecha de Preparación | Marzo 2024                     |
+| Profesores      | MTI. Marco Antonio Ramirez         |
+|                 | MTRO. Ricardo Luna Santos         |
+
+| Nombre y Apellido           | Cargo                            |
+| --------------------------- | -------------------------------- |
+| Yair González Salazar | Documentador                   |
+| Jose Zahid Ramirez Estudillo            | Desarrollador Front End |
+| Jesús Flores Valencia | Base de Datos y Desarrollador BackEnd |
 </div>
