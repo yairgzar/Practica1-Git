@@ -216,7 +216,7 @@ BACKEND
 
 ### BASE DE DATOS
 <p align="justify">
-En nuestro proyecto del sistema web para el control de un gimnasio, hemos implementado un sistema de login con roles que permite gestionar el acceso y las acciones que cada usuario puede realizar dentro de la plataforma. Este sistema de roles está diseñado para garantizar la seguridad y eficiencia en la gestión del gimnasio, permitiendo que cada usuario tenga acceso solo a las funcionalidades pertinentes según su rol:
+En nuestro proyecto del sistema web para el control de un gimnasio, hemos implementado un sistema de login con roles que permite gestionar el acceso y las acciones que cada usuario puede realizar dentro de la plataforma. Este sistema de roles está diseñado para garantizar la seguridad y eficiencia en la gestión del gimnasio, permitiendo que cada usuario tenga acceso solo a las funcionalidades según su rol:
 </p>
 
 <p align="justify">
