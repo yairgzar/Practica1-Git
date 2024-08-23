@@ -1,5 +1,5 @@
-![Logo](https://github.com/user-attachments/assets/727a3325-10e5-4ff1-9238-ed69534fb5e2)
 <div align="center">
+![Logo](https://github.com/user-attachments/assets/727a3325-10e5-4ff1-9238-ed69534fb5e2)
   
 ## UNIVERSIDAD TECNOLÓGICA DE XICOTEPEC DE JUÁREZ, PUEBLA
 ### PROYECTO INTEGRADOR MODULO RECURSOS MATERIALES
