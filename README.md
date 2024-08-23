@@ -127,4 +127,67 @@ BACKEND
 10. Rendimiento: El sistema debe ser rápido y eficiente, permitiendo un acceso ágil a la información del inventario incluso en momentos de alta demanda.
 </p>
 
+### REGLAS DE NEGOCIO
+
+<p align="justify">
+1. Acceso restringido a equipos: Solo los miembros activos del gimnasio pueden acceder al proceso de solicitud de equipos o materiales.
+</p>
+
+<p align="justify">
+2. Limitaciones en reservas: Los usuarios solo pueden reservar equipos o materiales dentro de un límite de tiempo específico (por ejemplo, una semana) para evitar abusos o monopolización de los recursos.
+</p>
+
+<p align="justify">
+3. Prioridad de reserva: Los equipos o materiales pueden ser reservados con prioridad por ciertos grupos de usuarios.
+</p>
+
+<p align="justify">
+4. Restricciones de uso: Algunos equipos pueden estar sujetos a restricciones de uso debido a su naturaleza especializada o costosa, y solo pueden ser asignados por personal autorizado del gimnasio.
+</p>
+
+<p align="justify">
+5. Responsabilidad de los usuarios: Los usuarios son responsables de cualquier daño o pérdida de equipos o materiales que hayan sido asignados a ellos durante su uso.
+</p>
+
+<p align="justify">
+6. Mantenimiento regular de equipos: Los equipos deben someterse a inspecciones y mantenimiento periódicos de acuerdo con un calendario predefinido para garantizar su buen funcionamiento y seguridad.
+</p>
+
+<p align="justify">
+7. Proceso de adquisición de nuevos equipos: La adquisición de nuevos equipos o materiales debe seguir un proceso específico que incluya la obtención de cotizaciones, la aprobación por parte de la dirección y la recepción.
+</p>
+
+<p align="justify">
+8. Cumplimiento de normas de seguridad: Todos los usuarios del gimnasio deben cumplir con las normas de seguridad establecidas al utilizar equipos o materiales.
+</p>
+
+<p align="justify">
+9. Devolución de equipos en buen estado: Los usuarios deben devolver los equipos o materiales asignados dentro del plazo especificado y en el mismo estado en que los recibieron.
+</p>
+
+<p align="justify">
+10. Eliminación de equipos obsoletos: Los equipos obsoletos o dañados deben ser retirados adecuadamente de acuerdo con las regulaciones ambientales y de seguridad, y pueden requerir la documentación adecuada para su eliminación.
+</p>
+
+<p align="justify">
+11. Restricción de acceso a equipos especializados: Solo los miembros con un nivel de suscripción premium pueden acceder a ciertos equipos especializados.
+</p>
+
+<p align="justify">
+12. Política de préstamo de materiales**: Los materiales como las pesas deben ser devueltos en el mismo estado en que fueron prestados y dentro de un tiempo determinado para evitar cargos adicionales.
+</p>
+
+<p align="justify">
+13. Política de uso compartido de equipos: Los equipos de alta demanda, como las cintas de correr, tienen un límite de tiempo de uso por persona durante las horas pico para garantizar que todos los miembros tengan acceso.
+</p>
+
+<p align="justify">
+14. Requisitos de mantenimiento preventivo: Todo el equipo debe someterse a un mantenimiento regular según el programa establecido para garantizar su funcionamiento seguro y eficiente.
+</p>
+
+<p align="justify">
+15. Normas de seguridad en el uso de equipos: Se deben seguir las instrucciones de seguridad y las advertencias proporcionadas por el personal del gimnasio para minimizar el riesgo de lesiones.
+</p>
+
+
 </div>
