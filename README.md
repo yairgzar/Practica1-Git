@@ -86,4 +86,45 @@ BACKEND
 10. Integración con sistemas de compra: Debería integrarse con sistemas de compras para agilizar el proceso de adquisición de nuevos recursos materiales y mantener actualizado el inventario.
 </p>
 
+### REQUERIMIENTOS NO FUNCIONALES
+<p align="justify">
+1. Seguridad de datos sensibles: Garantizar la seguridad de los datos sensibles, como información financiera o detalles de inventario.
+</p>
+
+<p align="justify">
+2. Gestión de cargas de trabajo variables: Manejar cargas de trabajo variables y asegurar tiempos de respuesta rápidos, incluso durante períodos de alta demanda.
+</p>
+
+<p align="justify">
+3. Alta disponibilidad y tiempo de actividad: El sistema debe estar disponible y operativo durante la mayor parte del tiempo posible, con un tiempo de inactividad mínimo planificado para mantenimiento y actualizaciones.
+</p>
+
+<p align="justify">
+4. Escalabilidad: Debe poder adaptarse y escalar fácilmente para manejar un aumento en el volumen de datos.
+</p>
+
+<p align="justify">
+5. Facilidad de uso: El sistema debe ser fácil de usar e intuitivo para los usuarios, con una interfaz de usuario clara y bien diseñada, minimizando la necesidad de formación adicional.
+</p>
+
+<p align="justify">
+6. Compatibilidad multiplataforma: El sistema debe ser compatible con una variedad de dispositivos y plataformas.
+</p>
+
+<p align="justify">
+7. Integración con otros sistemas: El sistema debe ser capaz de integrarse con otros sistemas externos.
+</p>
+
+<p align="justify">
+8. Cumplimiento de regulaciones: Cumplir con las regulaciones y normativas pertinentes, como leyes de protección de datos y estándares de seguridad de la información.
+</p>
+
+<p align="justify">
+9. Manejo de fallos del sistema: Debe ser capaz de manejar de forma adecuada y recuperarse de posibles fallos del sistema, minimizando el impacto en la operación general del gimnasio.
+</p>
+
+<p align="justify">
+10. Rendimiento: El sistema debe ser rápido y eficiente, permitiendo un acceso ágil a la información del inventario incluso en momentos de alta demanda.
+</p>
+
 </div>
